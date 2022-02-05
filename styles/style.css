@@ -121,6 +121,7 @@
 }
 
 .staff__subtitle {
+  display: block;
   text-align: center;
   font-size: 20px;
   line-height: 30px;
